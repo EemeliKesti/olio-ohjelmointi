@@ -1,0 +1,7 @@
+C:/Users/OMISTAJA/olio-ohjelmointi/build-teht1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/teht1.dir
+C:/Users/OMISTAJA/olio-ohjelmointi/build-teht1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/OMISTAJA/olio-ohjelmointi/build-teht1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/OMISTAJA/olio-ohjelmointi/build-teht1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/OMISTAJA/olio-ohjelmointi/build-teht1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/OMISTAJA/olio-ohjelmointi/build-teht1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/OMISTAJA/olio-ohjelmointi/build-teht1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
